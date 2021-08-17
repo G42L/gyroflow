@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/G42L/Jira_Analyszer_Toolbox.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/G42L/Jira_Analyser_Toolbox.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/OneDrive - Volvo Cars Production/ARTINFO/DeveloppedCodes" />
