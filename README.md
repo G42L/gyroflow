@@ -1,4 +1,4 @@
-# Jira Analyszer Toolbox
+# Jira_Analyser_Toolbox
 Jira data analyser for Scrum Master
 
 Tools available:
@@ -14,4 +14,4 @@ Tools available:
   - Predictability
   - Feature sprint map
   - Issue mapping
-  - ART Defects status overview
+  - Defects status overview
