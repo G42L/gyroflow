@@ -1,5 +1,5 @@
 # Jira Analyszer Toolbox
-Analyse Jira data for Scrum Master
+Jira data analyser for Scrum Master
 
 Tools available:
   - Velocity Chart
